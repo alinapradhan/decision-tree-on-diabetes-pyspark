@@ -78,8 +78,3 @@ pip install pyspark pandas matplotlib jupyter
 * Accuracy: *to be filled in*
 * Confusion Matrix: *to be filled in*
 * Example prediction outputs: *to be added*
-
----
-
-
-👉 Would you like me to also create a **requirements.txt** file for this repo so you can include it alongside the README?
