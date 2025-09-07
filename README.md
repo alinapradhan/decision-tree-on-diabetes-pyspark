@@ -73,8 +73,3 @@ pip install pyspark pandas matplotlib jupyter
 
 ---
 
-## Results
-
-* Accuracy: *to be filled in*
-* Confusion Matrix: *to be filled in*
-* Example prediction outputs: *to be added*
