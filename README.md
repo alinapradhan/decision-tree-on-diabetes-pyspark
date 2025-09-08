@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook implementation of a Decision Tree Classifier using PySpark. The project demonstrates how to preprocess data, train a decision tree model, evaluate its performance, and visualize results in a scalable environment.
 
 
-## Features
+## Features 
  
 * Data preprocessing with **PySpark DataFrame API**
 * Feature engineering with **VectorAssembler**
